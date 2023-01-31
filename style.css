@@ -1,0 +1,13 @@
+.inner {
+	max-width: 900px;
+	min-height: 90vh;
+	margin: 20px;
+	padding: 20px 60px;
+	background-color: #E3F3DD;
+}
+.recipe-links {
+	list-style-type: none;
+}
+.recipe-links a {
+	text-decoration: none;
+}
