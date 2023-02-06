@@ -16,6 +16,7 @@ h1, h2, h3, h4, h5 {
 .home-link {
 	display: block;
 	padding: 0 0 30px;
+	text-decoration: none;
 }
 .featured-image {
 	max-width: 50%;
